@@ -1,16 +1,37 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Rui Barbosa
 
-<!--
-**RuiBarbosaJ/RuiBarbosaJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou **Desenvolvedor Web Front-end** com foco em **React, Next.js, TypeScript e Tailwind CSS**. Possuo experiência prática em projetos reais, incluindo atuação como freelancer no desenvolvimento de **módulos administrativos e sistemas internos**.
 
-Here are some ideas to get you started:
+Tenho base sólida em **gestão de dados sensíveis de clientes e processos administrativos**, o que me permite compreender regras de negócio e transformá-las em **interfaces organizadas, seguras e escaláveis**. Busco evolução constante, aplicando boas práticas e entregando valor real ao produto e ao time.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔭 No que estou trabalhando atualmente?
+
+- Aprofundando conhecimentos em **Next.js (App Router)** e padrões modernos do React  
+- Desenvolvimento e evolução de **painéis administrativos e sistemas internos**
+- Criação de projetos pessoais para fortalecer fundamentos de front-end
+- Estudo contínuo de **organização de código, componentização e escalabilidade**
+
+---
+
+## 🛠️ Ferramentas e Tecnologias
+
+**Front-end**
+- React, Next.js  
+- TypeScript, JavaScript (ES6+)  
+- HTML5, CSS3, Tailwind CSS, shadcn/ui  
+
+**Ferramentas e Workflow**
+- Git e GitHub  
+- Firebase  
+- Consumo de APIs  
+- Excel Avançado (organização e análise de dados)
+
+---
+
+## 📫 Como me encontrar
+
+- 📧 Email: **ruibarbosadev@gmail.com**
+- 💼 LinkedIn: [linkedin.com/in/rui-barbosa-295abb290](https://www.linkedin.com/in/rui-barbosa-295abb290/)
+
