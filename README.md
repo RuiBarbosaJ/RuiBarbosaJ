@@ -9,8 +9,8 @@ Tenho base sólida em **gestão de dados sensíveis de clientes e processos admi
 ## 🔭 No que estou trabalhando atualmente?
 
 - Aprofundando conhecimentos em **Next.js (App Router)** e padrões modernos do React  
-- Desenvolvimento e evolução de **painéis administrativos e sistemas internos**
-- Criação de projetos pessoais para fortalecer fundamentos de front-end
+- Desenvolvendo e aprimorando **projetos front-end**, incluindo experiências práticas como o trabalho freelancer para Kleimp  
+- Criação de projetos pessoais para fortalecer fundamentos de front-end e consumo de dados  
 - Estudo contínuo de **organização de código, componentização e escalabilidade**
 
 ---
