@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Rui Barbosa
 
-Sou **Desenvolvedor Web Front-end** com foco em **React, Next.js, TypeScript e Tailwind CSS**. Possuo experiência prática em projetos reais, incluindo atuação como freelancer no desenvolvimento de **módulos administrativos e sistemas internos**.
+Sou **Desenvolvedor Web Front-end** com foco em **React, Next.js, TypeScript e Tailwind CSS**. Possuo experiência prática em projetos reais, incluindo atuação como freelancer no desenvolvimento
 
 Tenho base sólida em **gestão de dados sensíveis de clientes e processos administrativos**, o que me permite compreender regras de negócio e transformá-las em **interfaces organizadas, seguras e escaláveis**. Busco evolução constante, aplicando boas práticas e entregando valor real ao produto e ao time.
 
