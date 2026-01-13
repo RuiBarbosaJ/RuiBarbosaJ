@@ -31,7 +31,7 @@ Tenho base sólida em **gestão de dados sensíveis de clientes e processos admi
 ---
 
 ## 📫 Como me encontrar
-
+- CONTATO: *(99) 99172-2391*
 - 📧 Email: **ruibarbosadev@gmail.com**
 - 💼 LinkedIn: [linkedin.com/in/rui-barbosa-295abb290](https://www.linkedin.com/in/rui-barbosa-295abb290/)
 
