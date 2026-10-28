@@ -1,37 +1,13 @@
-# 👋 Olá, eu sou o Rui Barbosa
+# Rui Barbosa
+**Desenvolvedor Full Stack & Analista de TI**
 
-Sou **Desenvolvedor Web Front-end** com foco em **React, Next.js, TypeScript e Tailwind CSS**. Possuo experiência prática em projetos reais, incluindo atuação como freelancer no desenvolvimento
+Desenvolvo aplicações web, automações e infraestrutura segura para transformar regras de negócio complexas em soluções práticas.
 
-Tenho base sólida em **gestão de dados sensíveis de clientes e processos administrativos**, o que me permite compreender regras de negócio e transformá-las em **interfaces organizadas, seguras e escaláveis**. Busco evolução constante, aplicando boas práticas e entregando valor real ao produto e ao time.
+### Stack
+`TypeScript` · `React` · `Next.js` · `Node.js` · `Python` · `PostgreSQL` · `Docker` 
 
----
+### Projetos
+- **[Facilita Sped](https://facilita-sped.vercel.app/):** Consulta automatizada via CI/CD e auditoria local (client-side) de SPED[cite: 1].
+- **BarberPRO:** SaaS multi-tenant com Next.js, bot em Python, Docker e Supabase.
 
-## 🔭 No que estou trabalhando atualmente?
-
-- Aprofundando conhecimentos em **Next.js (App Router)** e padrões modernos do React  
-- Desenvolvendo e aprimorando **projetos front-end**, incluindo experiências práticas como o trabalho freelancer para Kleimp  
-- Criação de projetos pessoais para fortalecer fundamentos de front-end e consumo de dados  
-- Estudo contínuo de **organização de código, componentização e escalabilidade**
-
----
-
-## 🛠️ Ferramentas e Tecnologias
-
-**Front-end**
-- React, Next.js  
-- TypeScript, JavaScript (ES6+)  
-- HTML5, CSS3, Tailwind CSS, shadcn/ui  
-
-**Ferramentas e Workflow**
-- Git e GitHub  
-- Firebase  
-- Consumo de APIs  
-- Excel Avançado (organização e análise de dados)
-
----
-
-## 📫 Como me encontrar
-- CONTATO: *(99) 99172-2391*
-- 📧 Email: **ruibarbosadev@gmail.com**
-- 💼 LinkedIn: [linkedin.com/in/rui-barbosa-295abb290](https://www.linkedin.com/in/rui-barbosa-295abb290/)
-
+📫 **[LinkedIn](https://www.linkedin.com/in/SEU-LINKEDIN/)**
